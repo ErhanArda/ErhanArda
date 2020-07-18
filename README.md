@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [many projects](https://github.com/ErhanArda?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ErhanArda?tab=repositories](https://github.com/ErhanArda?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/ErhanArda?tab=repositories)
 
 - 💬 Ask me about **Vue.js, React**
 
