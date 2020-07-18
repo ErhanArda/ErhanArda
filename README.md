@@ -1,4 +1,7 @@
 ### Hi there 👋
+<!--![image](https://github.com/ErhanArda/ErhanArda/blob/master/index.png)-->
+![image](https://github.com/ErhanArda/ErhanArda/blob/master/Octocat.png)
+
 
 <!--
 **ErhanArda/ErhanArda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
