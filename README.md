@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhanarda" alt="erhanarda" /> </p>
 
-- 🔭 I’m currently working on [many projects](https://github.com/ErhanArda?tab=repositories)
+- 🔭 I’m currently working on [private projects](https://github.com/ErhanArda?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/ErhanArda?tab=repositories)
 
