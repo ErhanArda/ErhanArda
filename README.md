@@ -26,8 +26,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhanarda&layout=compact" alt="erhanarda" /> 
 </p>
+
 <p align="center">
-<a href="https://linkedin.com/in/erhanarda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erhanarda" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/erhanarda" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="erhanarda" height="40" width="40" /></a>
 </p>
 
 <!--![image](https://github.com/ErhanArda/ErhanArda/blob/master/index.png)-->
