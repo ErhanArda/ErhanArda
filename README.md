@@ -19,9 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
 </p>
                                                                                                                                     
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=erhanarda&show_icons=true" alt="erhanarda" /> 
-</p>
+
 
 
 <p align="center">
